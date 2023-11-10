@@ -1,0 +1,24 @@
+header {
+    background-color: rgb(255, 255, 255);
+    font-family: gordita;
+}
+
+section {
+    background-color: rgb(255, 255, 255);
+}
+
+img {
+    width: 33.15%;
+    height: auto;
+    filter: saturate(0);
+}
+
+a:hover img {
+    filter: saturate(1);
+}
+
+h2 {text-align: center;}
+h3 {text-align: right;}
+
+.infografía { width: 100%;}
+.revista { width: 49.86%;}
