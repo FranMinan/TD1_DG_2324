@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 50px;
+  background-color: rgb(20, 20, 57);
+  position:fixed;
+  width: 100%;
+  
+}
+
+#casino {
+  width: 100%;
+}
+
+article {
+  width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+  align-content: center;
+}
+
+h1 {
+  font-size: 70px;
+  text-align: center;
+  padding: 10px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+  font-size: 27px;
+  text-align: center;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.primeraletra::first-letter {
+  font-size: 100px;
+  font-weight: bold;
+  line-height: 100px;
+  float: left;
+}
+
+strong {
+  font-size: 26px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+footer {
+  width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+  align-content: center;
+}
+
+#banner-thinkbig {
+  width: 100%;
+}
+
+.imagen {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#elpais {
+    margin-top: 10px;
+    height: 30px;
+    margin-left: 25px;
+}
+
+span {
+    font-weight:bold;
+}
+
+#telefonica {
+  width: 50px;
+  float: right;
+  padding-top: 5px;
+}
+
+#textoheader {
+  color: rgb(255, 255, 255);
+  font-size: 12pt;
+  position:absolute;
+  margin-left: 500px;
+  margin-right: auto;
+  padding-top: 20px;
+  display: inline;
+}
+

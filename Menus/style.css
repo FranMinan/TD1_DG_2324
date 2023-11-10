@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.contenedor {
+  width: 1200px;
+  height: 200px;
+  position: relative;
+  margin: auto;
+  margin-top: 150px;
+  background-color: bisque;
+}
+.c {
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+.caja1 {
+  background-color: rgb(71, 71, 71);
+}
+.caja2 {
+  background-color: rgb(1, 58, 64);
+}
+.caja3 {
+  background-color: rgb(2, 89, 89);
+}
+.caja4 {
+  background-color: rgb(107, 191, 144);
+}
+.caja5 {
+  background-color: rgb(191, 99, 65);
+}
+.caja6 {
+  background-color: rgb(139, 16, 0);
+}
+.icono {
+  font-size: 50px;
+  text-align: center;
+  margin-top: 60px;
+}
+.texto {
+  text-align: center;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.contenedor2 {
+  margin-top: 50px;
+  width: 1200px;
+  text-align: center;
+}
+
+a {
+  margin-left: 60px;
+  font-size: 20px;
+}
+
+a:link {
+  color: pink;
+}
+
+a:hover {
+  color: orange;
+}
+
+a:visited {
+  color: violet;
+}
+
+a:active {
+  color: yellow;
+}
