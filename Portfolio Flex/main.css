@@ -1,0 +1,50 @@
+header {
+  background-color: rgb(255, 255, 255);
+  font-family: gordita;
+}
+
+section {
+  background-color: rgb(255, 255, 255);
+}
+
+img {
+  width: 33.15%;
+  height: auto;
+  filter: blur(1px);
+}
+
+a:hover img {
+  filter: blur(0px);
+}
+
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: right;
+}
+
+.infografía {
+  width: 100%;
+}
+.revista {
+  width: 49.86%;
+}
+
+.caja {
+  float: center;
+  margin: 10px;
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+  background-color: rgb(132, 193, 194);
+  padding: 1em;
+}
+
+
+.special {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
