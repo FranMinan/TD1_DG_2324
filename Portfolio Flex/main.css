@@ -17,8 +17,8 @@ a:hover img {
   filter: blur(0px);
 }
 
-h2 {
-  text-align: center;
+h1 {
+  padding-left: 15px;
 }
 h3 {
   text-align: right;
@@ -40,7 +40,6 @@ h3 {
   background-color: rgb(132, 193, 194);
   padding: 1em;
 }
-
 
 .special {
   background-color: rgb(255, 255, 255);
