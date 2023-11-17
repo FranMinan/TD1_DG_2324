@@ -3,6 +3,53 @@
   padding: 0;
   box-sizing: border-box;
 }
-body {
-  color: aqua;
+header {
+  margin-top: 5%;
+  color: rgb(255, 255, 255);
+  font-family: gordita;
+  align-items: center;
 }
+
+.flex1{display: flex;
+flex-direction: column;
+justify-content: center;}
+
+.flex2{display: flex;
+  flex-direction: column;
+}
+
+.box {box-sizing: content-box;;
+width: 15%;
+height: 10%;
+padding-top: 1%;
+border-color: #ffffff;
+border-style: dashed;
+text-align: center;
+padding-bottom: 1% ;
+margin-bottom: 3%;
+}
+
+body{  
+  background-image: url(imagenes/city_presskit.png);
+  background-size: auto;
+  }
+
+
+
+a:link {color: rgb(255, 255, 255);
+  font-family: 'IBM Plex Mono', monospace;
+font-weight: bold;
+font-size: 100%;
+text-decoration: none;
+}
+
+a:visited {color: rgb(255, 255, 255);}
+
+a:hover {filter:blur(2px);}
+
+ul {align-items: center;
+  list-style: none;
+}
+
+
+
