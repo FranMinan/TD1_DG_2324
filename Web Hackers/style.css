@@ -83,9 +83,7 @@ footer {
     margin-left: 25px;
 }
 
-span {
-    font-weight:bold;
-}
+
 
 #telefonica {
   width: 50px;
@@ -103,3 +101,7 @@ span {
   display: inline;
 }
 
+a:link {color: black;
+font-weight: bold;}
+
+a:hover {margin-left: 1%;}
