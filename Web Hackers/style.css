@@ -12,6 +12,11 @@ header {
   
 }
 
+a:link {color: black;
+  font-weight: bold;}
+  
+  a:hover {margin-left: 1%;}
+
 #casino {
   width: 100%;
 }
@@ -100,8 +105,3 @@ footer {
   padding-top: 20px;
   display: inline;
 }
-
-a:link {color: black;
-font-weight: bold;}
-
-a:hover {margin-left: 1%;}
