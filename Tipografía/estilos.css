@@ -1,0 +1,79 @@
+.box1 {
+  font-family: "Kalnia", serif;
+  border-style: dotted;
+  margin-right: 2%;
+  width: 33%;
+  padding: 1%;
+}
+
+.box2 {
+  font-family: "Silkscreen", sans-serif;
+  margin-right: 2%;
+  border-style: dotted;
+  width: 33%;
+  padding: 1%;
+}
+
+.box3 {
+  font-family: "Whisper", cursive;
+  border-style: dotted;
+  width: 33%;
+  padding: 1%;
+}
+
+.box4 {
+  font-family: "Barlow Condensed", sans-serif;
+  border-style: dotted;
+  margin-right: 2%;
+  width: 33%;
+  padding: 1%;
+}
+
+.box5 {
+   font-family: 'Bebas Neue', sans-serif;
+   border-style: dotted;
+   margin-right: 2%;
+   width: 33%;
+   padding: 1%;
+ }
+
+ .box6 {
+   font-family: 'Dancing Script', cursive;
+   border-style: dotted;
+   width: 33%;
+   padding: 1%;
+  
+ }
+
+ .box7 {
+   font-family: 'Nanum Myeongjo', serif;
+   border-style: dotted;
+   margin-right: 2%;
+   width: 33%;
+   padding: 1%;
+ }
+
+ .box8 {
+   font-family: 'Russo One', sans-serif;
+   border-style: dotted;
+   margin-right: 2%;
+   width: 33%;
+   padding: 1%;
+ }
+
+ .box9 {
+   font-family: 'Orbitron', sans-serif;
+   border-style: dotted;
+   width: 33%;
+   padding: 1%;
+ 
+ }
+
+.section {
+  display: flex;
+  margin-bottom: 2%;
+  width: 100%;
+}
+
+
+
