@@ -1,6 +1,4 @@
-.navbar {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.navbar {font-family: "zuume", sans-serif;
+    font-weight: 700;
+    font-style: italic;}
 .carousel-caption{font-weight: bold;}
-
-
-
-
