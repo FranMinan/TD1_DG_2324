@@ -38,10 +38,19 @@ font-size: 10pt;}
 color: white;
 text-align: left;}
 
+.text2{font-size: 8pt;
+  color: white;
+  text-align: center;}
+
 .sobremi{color: white;
 text-align: left;
 font-family: "zuume", sans-serif;
 margin-top: 10%;}
+
+.contacto{color: white;
+  text-align: center;
+  font-family: "zuume", sans-serif;
+  margin-top: 10%;}
 
 hr{opacity: 1;}
 
