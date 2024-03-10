@@ -2,3 +2,17 @@
     font-weight: 700;
     font-style: italic;}
 .carousel-caption{font-weight: bold;}
+.buttonlink{color: white;
+    text-decoration: none;
+    }
+    
+    .buttonlink:visited{color: white;}
+
+    .buttonlink2{color: rgb(0, 0, 0);
+        text-decoration: none;
+        font-weight: bold;
+        }
+        
+        .buttonlink:visited2{color: rgb(0, 0, 0);}
+
+        .buttonlink2:hover {color: white;}
